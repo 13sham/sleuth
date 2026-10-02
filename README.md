@@ -26,7 +26,7 @@ Reports can be exported to JSON.
 
 ```bash
 pkg update && pkg install python git -y
-git clone https://github.com/YOURNAME/sleuth
+git clone https://github.com/13sham/sleuth
 cd sleuth
 pip install -r requirements.txt
 python sleuth.py
